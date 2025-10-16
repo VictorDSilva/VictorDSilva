@@ -15,16 +15,13 @@
 
 👨‍💻 **Desenvolvedor e Analista de Qualidade** com experiência em projetos de grande escala e complexidade, dominando tecnologias essenciais como .NET Core, SQL Server, Angular, Terraform e Selenium. Trabalho com metodologias ágeis (Scrum, Kanban) e busco a excelência técnica, comunicação assertiva e colaboração para entregar produtos de altíssima qualidade.
 
+![VictorDSilva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorDSilva&show_icons=true&theme=radical)
+
 ## 🎓 Educação
 
 - **Pós-Graduação em Software Architecture** — FIAP *(Out/2024 - Presente)*
 - **Bacharelado em Sistemas de Informação** — IF Sudeste MG *(Mar/2016 - Fev/2022)*
 - **Técnico em Informática** — IF Sudeste MG *(Abr/2013 - Fev/2015)*
-
-## 🏅 Certificações
-
-- TOEIC Bridge A2 *(Jun/2019)*
-- TOEFL ITP B1 *(Dez/2018)*
 
 ## 📫 Contato
 
@@ -32,5 +29,7 @@
 - [Linkedin](https://www.linkedin.com/in/victordomingod/)
 - Celular: +55 32 98804-2873
 
----
+## 🏆 Troféus e Conquistas
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=VictorDSilva&theme=algolia&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
