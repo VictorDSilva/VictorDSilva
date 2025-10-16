@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Victor Domingos da Silva!
 
-Bem-vindo ao meu perfil GitHub!  
-Sou **Desenvolvedor Backend** e **Analista de Testes de Software** apaixonado por criar soluções robustas e escaláveis, com especial foco em qualidade, performance e arquitetura de sistemas.
+Desenvolvedor e Analista de Qualidade com experiência em projetos de grande escala e complexidade, dominando tecnologias essenciais como .NET Core, SQL Server e Selenium. Além da excelência técnica, utilizo as melhores práticas e metodologias ágeis (Scrum e Kanban) para otimizar as entregas. Sou um profissional que prioriza a comunicação assertiva e o trabalho em equipe para promover um ambiente colaborativo, garantindo a resolução proativa de problemas e a entrega de produtos de altíssima qualidade.
 
 ---
 
