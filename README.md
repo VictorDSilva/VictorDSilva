@@ -1,57 +1,36 @@
-# 👋 Olá, eu sou Victor Domingos da Silva!
+# Victor Domingos da Silva
 
-Desenvolvedor e Analista de Qualidade com experiência em projetos de grande escala e complexidade, dominando tecnologias essenciais como .NET Core, SQL Server e Selenium. Além da excelência técnica, utilizo as melhores práticas e metodologias ágeis (Scrum e Kanban) para otimizar as entregas. Sou um profissional que prioriza a comunicação assertiva e o trabalho em equipe para promover um ambiente colaborativo, garantindo a resolução proativa de problemas e a entrega de produtos de altíssima qualidade.
-
----
-
-## 🚀 Sobre Mim
-
-- 🎓 **Formado em Sistemas de Informação** pelo IF Sudeste MG - Campus Juiz de Fora | Técnico em Informática
-- 👨‍💻 **Mais de 3 anos de experiência** em desenvolvimento backend e testes de software, atuando em projetos de grande escala e complexidade.
-- 📝 **Publicações acadêmicas:** Combate às fake news com .NET Core e API Rest.
-- 🏛️ **Pós-graduação:** Arquitetura de Software - FIAP
-- 🚀 Sempre evoluindo: meu objetivo é aprimorar continuamente minhas habilidades, contribuindo com projetos inovadores.
-
----
-
-## 🏆 **Minha Stack Principal**
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kanban-1976D2?style=for-the-badge" />
-
-</div>
-
-**Principais tecnologias e ferramentas:**
-- **Backend:** .NET Core / C#
-- **Banco de dados:** SQL Server
-- **Testes automatizados:** Selenium, NUnit, xUnit
-- **APIs:** REST
-- **Metodologias ágeis:** Scrum, Kanban
+[![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)]()
+[![Kanban](https://img.shields.io/badge/Kanban-00BFFF?style=for-the-badge)]()
 
 ---
 
+👨‍💻 **Desenvolvedor e Analista de Qualidade** com experiência em projetos de grande escala e complexidade, dominando tecnologias essenciais como .NET Core, SQL Server, Angular, Terraform e Selenium. Trabalho com metodologias ágeis (Scrum, Kanban) e busco a excelência técnica, comunicação assertiva e colaboração para entregar produtos de altíssima qualidade.
 
-## 🎯 Objetivo Profissional
+## 🎓 Educação
 
-Continuar aprimorando minhas habilidades como desenvolvedor e arquiteto de software, contribuindo para projetos inovadores e colaborando com comunidades tecnológicas.
+- **Pós-Graduação em Software Architecture** — FIAP *(Out/2024 - Presente)*
+- **Bacharelado em Sistemas de Informação** — IF Sudeste MG *(Mar/2016 - Fev/2022)*
+- **Técnico em Informática** — IF Sudeste MG *(Abr/2013 - Fev/2015)*
 
----
+## 🏅 Certificações
+
+- TOEIC Bridge A2 *(Jun/2019)*
+- TOEFL ITP B1 *(Dez/2018)*
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/victordomingosdasilva/)
-- [E-mail](victordomingos91@gmail.com) <!-- Edite aqui com seu email se quiser -->
-
----
-
-> “Buscando sempre me aprimorar e contribuir para um mundo digital mais seguro, eficiente e inovador.”
+- Email: [victordomingos91@gmail.com](mailto:victordomingos91@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/victordomingod/)
+- Celular: +55 32 98804-2873
 
 ---
 
