@@ -8,8 +8,6 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)]()
-[![Kanban](https://img.shields.io/badge/Kanban-00BFFF?style=for-the-badge)]()
 
 ---
 
@@ -19,7 +17,7 @@
 
 ## 🎓 Educação
 
-- **Pós-Graduação em Software Architecture** — FIAP *(Out/2024 - Presente)*
+- **Pós-Graduação em Software Architecture** — FIAP *(Set/2024 - Nov/2025)*
 - **Bacharelado em Sistemas de Informação** — IF Sudeste MG *(Mar/2016 - Fev/2022)*
 - **Técnico em Informática** — IF Sudeste MG *(Abr/2013 - Fev/2015)*
 
@@ -28,8 +26,3 @@
 - Email: [victordomingos91@gmail.com](mailto:victordomingos91@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/victordomingod/)
 - Celular: +55 32 98804-2873
-
-## 🏆 Troféus e Conquistas
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=VictorDSilva&theme=algolia&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
